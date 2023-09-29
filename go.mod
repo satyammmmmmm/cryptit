@@ -1,4 +1,4 @@
-module satyam
+module github.com/satyammmmmmm/cryptit
 
 go 1.20
 
